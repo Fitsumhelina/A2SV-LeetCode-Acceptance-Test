@@ -36,7 +36,7 @@ Each solution is provided in the form of code files along with any necessary exp
 
 ## LeetCode Profile
 
-For a broader view of my problem-solving skills and other solutions, visit my [LeetCode profile](https://leetcode.com/u/fitsumhelina/).
+For a broader view of my problem-solving skills and other solutions, visit my [LeetCode profile](https://leetcode.com/u/fitsumhelina/)
 
 ## Contributing
 
