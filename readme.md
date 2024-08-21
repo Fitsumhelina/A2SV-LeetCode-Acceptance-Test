@@ -1,14 +1,14 @@
 
 # A2SV Cohort 6 Preparation - Problem Solving Repository
 
-Welcome to my problem-solving repository! This repository is dedicated to storing my solutions for the 31 problems I am solving in preparation for the A2SV Cohort 6 application process.
+Welcome to my problem-solving repository! This repository is dedicated to storing my solutions for the 30 problems I am solving in preparation for the A2SV Cohort 6 application process.
 
 ## Overview
 
-This repository contains solutions to problems categorized into three difficulty levels:
+This repository contains solutions to problems categorized into two difficulty levels:
 - **Easy**
 - **Medium**
-- **Hard**
+
 
 The problems are designed to help prepare for the technical interviews and to give a better understanding of the expected technical knowledge.
 
